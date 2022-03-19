@@ -1,3 +1,8 @@
+@import "antd/dist/antd.css";
+* {
+  background-color: black;
+  color: white;
+}
 .App {
   text-align: center;
 }
